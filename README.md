@@ -32,6 +32,8 @@ pip install -r requirements.txt
 ### 3️⃣ Set Up Environment Variables
 
 Create a .env file in the project directory and add the required API keys:
+1. Get Gemini API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
+2. Get Groq API key from [Groq](https://console.groq.com/keys)
 ```
 GEMINI_API_KEY=your_gemini_api_key_here
 GROQ_API_KEY=your_groq_api_key_here
