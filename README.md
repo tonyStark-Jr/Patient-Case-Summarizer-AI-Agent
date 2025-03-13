@@ -71,6 +71,8 @@ streamlit run app.py
 
 ✔ Uses Google Gemini & Groq LLMs for intelligent retrieval
 
+Note: If you want to add more reference materials for RAG add it in ref_pdf folder. 
+
 👨‍💻 Author
 
 Developed by Prakhar Shukla ✨
