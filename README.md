@@ -2,7 +2,7 @@
 
 This Streamlit application processes patient case documents, extracts medical information, and provides guideline-based recommendations using AI-powered retrieval and LLM models.
 
-Video Demo: [Demo link](https://github.com/patchy631/ai-engineering/issues](https://drive.google.com/file/d/1J0eh7qFrRTrHfqbrVRfMWZ9HvJbMQanF/view?usp=sharing))
+Video Demo: [Demo link](https://drive.google.com/file/d/1J0eh7qFrRTrHfqbrVRfMWZ9HvJbMQanF/view?usp=sharing)
 
 ---
 
