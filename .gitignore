@@ -1,0 +1,11 @@
+.env
+__pycache__
+.venv
+data_out
+lib
+stored_index
+guideline_rec_workflow.html
+test.py
+uploaded_file.json
+patient_case_summary.ipynb
+.DS_Store
